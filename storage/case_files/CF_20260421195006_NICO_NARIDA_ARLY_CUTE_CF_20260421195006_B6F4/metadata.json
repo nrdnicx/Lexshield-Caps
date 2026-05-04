@@ -1,0 +1,23 @@
+{
+    "FULLNAME": "Nico Narida",
+    "CASE_IDENTIFIER": "CF-20260421195006-B6F4",
+    "CASE_FILE": "arly cute",
+    "DESCRIPTION": "hindi",
+    "DATE_CREATED": "2026-04-21",
+    "ASSIGNED_LAWYER": {
+        "id": 8,
+        "name": "richard narida"
+    },
+    "STATUS": "ONGOING",
+    "CLIENT_USER_ID": 7,
+    "ATTACHMENTS": [
+        {
+            "name": "CONPOLO.jpg",
+            "stored_name": "20260421195006_CONPOLO.jpg",
+            "category": "EVIDENCE",
+            "size": 532584,
+            "uploaded_at": "2026-04-21T19:50:06+08:00"
+        }
+    ],
+    "UPDATED_AT": "2026-04-21 19:59:16"
+}

@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Arly Joy Montefalco",
+    "CASE_IDENTIFIER": "CF-20260501040545-B7B1",
+    "CASE_FILE": "ganda",
+    "DESCRIPTION": "owkii",
+    "DATE_CREATED": "2026-05-01",
+    "ASSIGNED_LAWYER": {
+        "id": 10,
+        "name": "Nico Narida"
+    },
+    "STATUS": "ONGOING",
+    "CLIENT_USER_ID": 9,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-05-01 04:05:45"
+}

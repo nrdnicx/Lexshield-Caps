@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Carl Elle",
+    "CASE_IDENTIFIER": "INTAKE-20260422134150-4615",
+    "CASE_FILE": "Client Intake Consultation",
+    "DESCRIPTION": "zxc",
+    "DATE_CREATED": "2026-04-22",
+    "ASSIGNED_LAWYER": {
+        "id": 11,
+        "name": "Jundale Santos"
+    },
+    "STATUS": "OPEN",
+    "CLIENT_USER_ID": 14,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-04-22 17:24:19"
+}
