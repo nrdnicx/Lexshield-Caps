@@ -1,0 +1,15 @@
+{
+    "FULLNAME": "Yan Villanueva",
+    "CASE_IDENTIFIER": "CF-20260508192423-AB5E",
+    "CASE_FILE": "Case Redhorse",
+    "DESCRIPTION": "sgesege erp",
+    "DATE_CREATED": "2026-05-08",
+    "ASSIGNED_LAWYER": {
+        "id": 7,
+        "name": "Nico Narida"
+    },
+    "STATUS": "ONGOING",
+    "CLIENT_USER_ID": 8,
+    "ATTACHMENTS": [],
+    "UPDATED_AT": "2026-05-08 19:24:23"
+}
